@@ -1,5 +1,5 @@
 {
-    "name": "Trg1",
+    "name": "Trigger-ETL",
     "type": "SCHEDULED",
     "config": {
         "schedule": "*/1 * * * *",

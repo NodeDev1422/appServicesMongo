@@ -1,0 +1,19 @@
+{
+    "properties": {
+        "$setOnInsert": {
+            "bsonType": "object",
+            "properties": {
+                "time": {
+                    "bsonType": "date"
+                }
+            }
+        },
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "compliance": {
+            "bsonType": "string"
+        }
+    },
+    "title": "datum"
+}
